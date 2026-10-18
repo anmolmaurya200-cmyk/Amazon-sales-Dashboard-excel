@@ -1,3 +1,3 @@
 # Amazon-sales-Dashboard-excel
-[View Amazon Dashboard](Amazon_India_Dasboard.xlsx)
-[View Original Data Set](Amazon Sales Data India.xlsx)
+[View Amazon Dashboard](Amazon_Sales_Data_Inda_dashboard.xlsx)
+[View Original Data Set](Amazon_Sales_Data_India.xlsx)
